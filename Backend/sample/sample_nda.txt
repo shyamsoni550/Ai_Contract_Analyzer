@@ -1,0 +1,147 @@
+SAMPLE NON-DISCLOSURE AGREEMENT (NDA) For Contract Analysis Testing Only
+Status: Fictional sample document; not legal advice.
+
+This Non-Disclosure Agreement (“Agreement”) is entered into as of
+[Effective Date] (“Effective Date”) by and between:
+
+Disclosing Party: Northstar Marine Systems Pvt. Ltd., a fictional
+company with its principal office at [Address] (“Disclosing Party”); and
+
+Receiving Party: Blue Harbor Technologies Pvt. Ltd., a fictional company
+with its principal office at [Address] (“Receiving Party”).
+
+Each may be referred to as a “Party” and together as the “Parties.”
+
+1.  PURPOSE The Parties wish to evaluate a potential business
+    relationship relating to maritime monitoring software and related
+    technical services (the “Purpose”). In connection with the Purpose,
+    the Disclosing Party may disclose Confidential Information to the
+    Receiving Party.
+
+2.  DEFINITION OF CONFIDENTIAL INFORMATION “Confidential Information”
+    means non-public business, financial, technical, operational,
+    commercial, or other information disclosed by or on behalf of the
+    Disclosing Party, in any form, including software, source code,
+    designs, product plans, customer information, pricing, forecasts,
+    security procedures, and documentation, that is marked confidential
+    or that reasonably should be understood to be confidential given its
+    nature and the circumstances of disclosure.
+
+Confidential Information does not include information that the Receiving
+Party can demonstrate: (a) is or becomes publicly available through no
+breach of this Agreement; (b) was lawfully known to the Receiving Party
+before disclosure; (c) is received lawfully from a third party without a
+duty of confidentiality; or (d) is independently developed without use
+of or reference to the Confidential Information.
+
+3.  OBLIGATIONS OF THE RECEIVING PARTY The Receiving Party shall:
+
+(a) use Confidential Information solely for the Purpose;
+(b) not disclose Confidential Information to any third party except as
+    permitted under this Agreement;
+(c) protect Confidential Information using at least reasonable care and
+    no less than the care used to protect its own similarly sensitive
+    information;
+(d) limit access to employees, professional advisers, and contractors
+    who need to know the information for the Purpose and are bound by
+    confidentiality obligations; and
+(e) promptly notify the Disclosing Party after becoming aware of any
+    unauthorized access, use, or disclosure.
+
+4.  PERMITTED DISCLOSURES The Receiving Party may disclose Confidential
+    Information to the extent required by applicable law, regulation, or
+    court order, provided that, where legally permitted, it gives the
+    Disclosing Party prompt written notice and reasonably cooperates
+    with efforts to seek protective treatment.
+
+5.  TERM AND SURVIVAL This Agreement begins on the Effective Date and
+    continues for two (2) years unless terminated earlier by either
+    Party on thirty (30) days’ written notice. The Receiving Party’s
+    confidentiality and restricted-use obligations shall continue for
+    three (3) years after each disclosure. Confidential Information
+    qualifying as a trade secret shall remain protected for as long as
+    it qualifies as a trade secret under applicable law.
+
+6.  RETURN OR DESTRUCTION Upon written request or termination of
+    discussions, the Receiving Party shall, within fifteen (15) days,
+    return or destroy Confidential Information in its possession or
+    control, except that one archival copy may be retained solely for
+    legal or compliance purposes and routine backup copies may remain
+    until overwritten in accordance with standard retention procedures.
+    Any retained information remains subject to this Agreement.
+
+7.  INTELLECTUAL PROPERTY All Confidential Information remains the
+    property of the Disclosing Party. No license or other intellectual
+    property right is granted except the limited right to use
+    Confidential Information for the Purpose.
+
+8.  NO WARRANTY Confidential Information is provided “as is.” The
+    Disclosing Party makes no representation or warranty, express or
+    implied, as to its accuracy or completeness. This clause does not
+    exclude liability to the extent such exclusion is prohibited by
+    applicable law.
+
+9.  REMEDIES The Parties acknowledge that unauthorized use or disclosure
+    may cause harm for which monetary damages may not be an adequate
+    remedy. Subject to applicable law, the Disclosing Party may seek
+    appropriate injunctive or equitable relief in addition to other
+    remedies available at law.
+
+10. DATA PROTECTION Each Party shall comply with applicable data
+    protection and privacy laws when handling personal data received
+    under this Agreement. The Receiving Party shall use such personal
+    data only as necessary for the Purpose and apply reasonable
+    technical and organizational safeguards.
+
+11. NON-SOLICITATION For six (6) months after the Effective Date,
+    neither Party shall knowingly solicit for employment any employee of
+    the other Party with whom it had direct, material contact through
+    the Purpose. General advertisements and unsolicited applications are
+    excluded. This clause applies only to the extent enforceable under
+    applicable law.
+
+12. NOTICES Notices under this Agreement must be in writing and
+    delivered by personal delivery, reputable courier, or email with
+    confirmation of receipt to the contact details designated by each
+    Party in writing.
+
+13. GOVERNING LAW AND DISPUTE RESOLUTION This Agreement shall be
+    governed by the laws of [Jurisdiction], without regard to
+    conflict-of-law rules. The courts located in [City, Jurisdiction]
+    shall have exclusive jurisdiction over disputes arising out of this
+    Agreement, subject to any mandatory legal requirements.
+
+14. GENERAL This Agreement constitutes the entire agreement between the
+    Parties concerning its subject matter and supersedes prior
+    discussions on that subject. Any amendment must be in writing and
+    signed by both Parties. Neither Party may assign this Agreement
+    without the other Party’s prior written consent, except to a
+    successor in connection with a merger or sale of substantially all
+    relevant assets. If any provision is held unenforceable, the
+    remaining provisions shall remain in effect. A failure to enforce a
+    provision is not a waiver of that provision.
+
+15. SIGNATURES
+
+DISCLOSING PARTY Name: Northstar Marine Systems Pvt. Ltd. By:
+______________________________ Name and Title: ___________________ Date:
+_____________________________
+
+RECEIVING PARTY Name: Blue Harbor Technologies Pvt. Ltd. By:
+______________________________ Name and Title: ___________________ Date:
+_____________________________
+
+END OF SAMPLE
+
+Suggested contract-analysis test cases: - Identify the parties and
+Effective Date. - Extract the confidentiality term and survival
+period. - Flag the broad definition of Confidential Information. -
+Identify exceptions to Confidential Information. - Flag the
+non-solicitation clause for jurisdiction-specific enforceability
+review. - Extract governing law and venue placeholders. - Check whether
+return/destruction obligations contain exceptions. - Identify security,
+incident-notification, and data-protection obligations.
+
+Disclaimer: This fictional sample is intended for software testing and
+clause extraction only. It is not a template for execution and has not
+been reviewed for compliance with any specific jurisdiction.
